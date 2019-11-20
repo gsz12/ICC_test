@@ -11,4 +11,4 @@
 6、The publicly tested data set has been desensitized within my capabilities, but I also know that there may be information cracking from the perspective of information security. If personal privacy is involved, please let us know.
 
 
-7、[![Watch the video](https://github.com/gsz12/ICC_test/blob/master/1.png)](https://youtu.be/7YA-7aAAd8s)
+7、[![Watch the video](https://github.com/gsz12/ICC_test/blob/master/1111.png)](https://youtu.be/7YA-7aAAd8s)
